@@ -9,7 +9,8 @@ I don't know, you can probably read api.py and the example (I am adding features
 ```
 git clone https://github.com/Picoseconds/octii-py
 ```
-2. Put your token in token.txt. You can get your token by looking in your localStorage with Chrome DevTools for the key "_cap_neko-token"
+2. Put your token in token.txt. You can get your token by looking in your localStorage with Chrome DevTools for the key "\_cap\_neko-token"
+3. Install it with `pip install -r requirements.txt` or use a venv (RECOMMENDED BUT I CAN'T GIVE INSTRUCTIONS BECAUSE I DON'T KNOW HOW TO DO IT)
 3. Run the example selfbot INTERIM THIS IS FOR YOU with `py "examples/for interim.py"`
 
 ## Project Scope
